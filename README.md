@@ -1,4 +1,3 @@
-![Королество клоунов](https://discord.com/invite/HSt6nM2)
 ## Всем привет, меня зовут онлив
 ```java
 - Я как бы делаю ботов для дс
@@ -10,3 +9,4 @@
 - Discord: onleew#9518
 - Почта: onleew666@gmail.com
 
+![Королество клоунов](https://discord.com/invite/HSt6nM2)
