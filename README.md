@@ -1,4 +1,4 @@
-![https://discord.com/invite/HSt6nM2](https://cdn.discordapp.com/icons/658658120309932062/65a57b6454a972b34b7c6cae8fc2ef15.png)
+![Королество клоунов](https://discord.com/invite/HSt6nM2)
 ## Всем привет, меня зовут онлив
 ```java
 - Я как бы делаю ботов для дс
